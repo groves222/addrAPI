@@ -1,0 +1,9 @@
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\bin\Debug\netcoreapp1.1\AddrApi.deps.json
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\bin\Debug\netcoreapp1.1\AddrApi.runtimeconfig.json
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\bin\Debug\netcoreapp1.1\AddrApi.runtimeconfig.dev.json
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\bin\Debug\netcoreapp1.1\AddrApi.dll
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\bin\Debug\netcoreapp1.1\AddrApi.pdb
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\obj\Debug\netcoreapp1.1\AddrApi.csprojResolveAssemblyReference.cache
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\obj\Debug\netcoreapp1.1\AddrApi.AssemblyInfo.cs
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\obj\Debug\netcoreapp1.1\AddrApi.dll
+C:\Users\groves222\Documents\Visual Studio 2017\Projects\AddrApi\AddrApi\obj\Debug\netcoreapp1.1\AddrApi.pdb
